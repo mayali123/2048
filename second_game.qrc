@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/second_game">
+        <file>Resources/0.jpg</file>
+        <file>Resources/0.png</file>
+        <file>Resources/2.JPG</file>
+        <file>Resources/2.png</file>
+        <file>Resources/4.JPG</file>
+        <file>Resources/4.png</file>
+        <file>Resources/8.JPG</file>
+        <file>Resources/8.png</file>
+        <file>Resources/16.JPG</file>
+        <file>Resources/16.png</file>
+        <file>Resources/32.JPG</file>
+        <file>Resources/32.png</file>
+        <file>Resources/64.JPG</file>
+        <file>Resources/64.png</file>
+        <file>Resources/128.jpg</file>
+        <file>Resources/128.png</file>
+        <file>Resources/256.jpg</file>
+        <file>Resources/256.png</file>
+        <file>Resources/512.jpg</file>
+        <file>Resources/512.png</file>
+        <file>Resources/1024.jpg</file>
+        <file>Resources/1024.png</file>
+        <file>Resources/2048.jpg</file>
+        <file>Resources/2048.png</file>
+        <file>Resources/4096.jpg</file>
+        <file>Resources/4096.png</file>
+        <file>Resources/water.wav</file>
+    </qresource>
+</RCC>
